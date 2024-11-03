@@ -9,3 +9,4 @@ then create a slicer
 then made a conncetion with all the file 
 how to made connection
 use to click right mouse button on the slicer then we have made a different option in it and there one option is that a report connection then click and made all tabel connection in it
+<a href="https://github.com/anjali07092001/data-Analysis-Dashboard-Of-super-market.git">super market store data dashboard
